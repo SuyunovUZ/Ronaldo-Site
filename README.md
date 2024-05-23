@@ -1,2 +1,2 @@
-# Asilbek_UZ
+Django
 Python
